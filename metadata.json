@@ -1,0 +1,6 @@
+{
+  "name": "CyberSafe — Smart Online Safety Assistant",
+  "description": "Bilingual online cybersecurity companion with suspicious URL analyzer, scam message detector, offline password strength auditor, phishing education, and security checklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
